@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "'Ini adalah project skripsi untuk PT Kafala Insan Mandiri'",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnHendri/outsourcing.git"
+  },
+  "author": "John Hendri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnHendri/outsourcing/issues"
+  },
+  "homepage": "https://github.com/JohnHendri/outsourcing#readme"
+}
